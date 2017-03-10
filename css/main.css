@@ -1,3 +1,14 @@
 html {
-  font-family: Abhaya Libre, serif:
+  font-family: Abhaya Libre, serif;
+}
+
+h1, span {
+  color: #fff;
+}
+.masthead {
+  background-color: #423ca3;
+}
+
+a {
+  background-color: #15114c;
 }
